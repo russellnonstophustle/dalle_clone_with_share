@@ -3,7 +3,7 @@ The AI image generator app features a community showcase option, allowing users 
 
 **Link to project:** https://imaginimages.netlify.app/
 
-![alt tag]([http://placecorgi.com/1200/650](https://1drv.ms/u/s!AifKn0-Vz7EdhKxePSqKBAFgjoLwdw?e=BwV2Xb))
+![alt tag](https://1drv.ms/u/s!AifKn0-Vz7EdhKxePSqKBAFgjoLwdw?e=BwV2Xb)
 
 ## How It's Made:
 
