@@ -3,7 +3,8 @@ The AI image generator app features a community showcase option, allowing users 
 
 **Link to project:** https://imaginimages.netlify.app/
 
-https://1drv.ms/u/s!AifKn0-Vz7EdhKxePSqKBAFgjoLwdw?e=BwV2Xb
+
+![Screenshot 2023-02-12 153356](https://user-images.githubusercontent.com/108148963/218532182-95f89636-9fc3-477b-8ed4-503403a96b21.png)
 
 ## How It's Made:
 
