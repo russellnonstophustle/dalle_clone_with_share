@@ -8,24 +8,19 @@ The AI image generator app features a community showcase option, allowing users 
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:**  React, Vite, JavaScript, HTML, Tailwind, CSS, MongoDB, Cloudinary, OpenAI API
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+I developed the app using React and Tailwind, newer technologies to me, but their intuitive design and functionality made the development process enjoyable and seamless, and I was particularly impressed by the ease of integration and utilization of Cloudinary, a new tool for me, which proved to be incredibly convenient and user-friendly.
 
 ## Optimizations
-*(optional)*
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+By utilizing Cloudinary's powerful image management and optimization tools, my site is able to deliver high-quality, lightning-fast images to users, greatly improving the overall user experience. Which proved to be faster than storing the images in MongoDB, while also supporting different user's screen sizes and connection speeds.
+
+Future additions could be GoogleOAuth so users could have their own collection of generated images, this would also support future additions such as the ability to like a post or comment on another user's images. 
+
+I would like to also add the ability for a user to upload a photo that could be used as a template for the image generations, similar to Lensa or something like that.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where to share those moments! Recruiters love to see that you're self-aware and passionate about growing.
+Understanding how to design a user-friendly interface that is intuitive and easy to navigate is a critical skill for building any app, after showing to some friends that have never used AI image generators I saw some things that needed to be improved. The app/ site should be so easy to use that somebody with little to no experience (my grandma) should find it easy to navigate and use.  Every time I build something I always have those *whoa this is awesome* or *fuck yeah I did it!* moments. When I got the community showcase to work and the images were there with description on hover and the option to download I was friggin' stoked! It was having trouble on the LocalHost as the http didn't have SSL certification but when I deployed it with fingers crossed and it worked just as expected I couldn't help but pump my fist and smile.
 
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
